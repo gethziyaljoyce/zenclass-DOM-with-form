@@ -1,0 +1,41 @@
+@media (min-width:468px){
+
+.container{
+    text-align:left;
+    border:2px solid brown;
+    padding-bottom: 30px;
+    padding-left: 20px;
+    margin-left: 600px;
+    margin-right: 600px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: darkgray;
+    max-width: 500px;
+    width:100%;
+
+}
+}
+
+h2{
+    color: brown;
+}
+
+#btn{
+    background-color: brown;
+}
+
+table{
+    margin-top: 50px;
+    text-align: center;
+    background-color: brown;
+    color: darkgray;
+}
+
+th, td{
+    padding: 15px;
+    color:darkgray;
+}
+
+.result{
+    margin-left: 130px;
+}
